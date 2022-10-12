@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "315549292153",
+    "firebase_url": "https://esp32-weather-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "esp32-weather-app",
+    "storage_bucket": "esp32-weather-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315549292153:android:14e077cb294a1ef846a6a8",
+        "android_client_info": {
+          "package_name": "com.example.openweather01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315549292153-moaerp60vubsnc7m3l6o6feasnvv0ajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ey0BWRTWFePH1Xgd8iqfHQ2bDSQypV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315549292153-moaerp60vubsnc7m3l6o6feasnvv0ajn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
